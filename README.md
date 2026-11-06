@@ -1,5 +1,7 @@
 # Luxe Timepieces
 
+> **Note:** This project is kept here as a legacy project and is no longer actively maintained.
+
 A full-stack e-commerce web app for luxury watches: browse products, save favorites, manage a shopping basket, and administer products and users through an admin dashboard.
 
 ## Project Status
